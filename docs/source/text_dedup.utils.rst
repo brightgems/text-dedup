@@ -1,11 +1,21 @@
 Utilities
 =========
 
-Modules
--------
+Submodules
+----------
 
-.. toctree::
-   :maxdepth: 4
+RedisDict
+------------------------------------
 
-   text_dedup.utils.storage
-   text_dedup.utils.hf_datasets
+.. automodule:: text_dedup.utils.redis_dict
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Search
+-------------------------------
+
+.. automodule:: text_dedup.utils.search
+   :members:
+   :undoc-members:
+   :show-inheritance:
